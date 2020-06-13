@@ -4,7 +4,7 @@ Hey guys welcome
 <pre>
 <?php
 
-print `ifconfig`:
+print `ifconfig`;
 
 ?>
 </pre>
